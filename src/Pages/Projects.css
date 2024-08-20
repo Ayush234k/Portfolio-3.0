@@ -51,6 +51,7 @@
     background-color: rgba(24, 24, 24, 0.5);
 }
 .card p{
+    font-size: 13px;
     margin: 20px 25px 0px 25px;
 }
 .links{
