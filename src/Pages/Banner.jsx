@@ -12,22 +12,22 @@ const Banner = () => {
     <>
     <Navbar/>
     <div className="Contain-1">
-        <div class="content">
-            <div class="name">
-                <div class="text-box">
-                    <div class="first">I'M</div>
-                    <div class="second">
+        <div className="content">
+            <div className="name">
+                <div className="text-box">
+                    <div className="first">I'M</div>
+                    <div className="second">
                         <h3>AYUSH</h3>
                         </div>
-                    <div class="third">BUILDING DIGITAL PRODUCTS, BRANDS & EXPERIENCE</div> 
+                    <div className="third">BUILDING DIGITAL PRODUCTS, BRANDS & EXPERIENCE</div> 
                 </div>
-                <div class="contact">
-                    <div class="one"><a href= "#">Explore My Portfolio</a></div>
-                    <div class="two"><a href= "https://www.linkedin.com/in/ayush-singh-6a3a37253/" target="_blank">Connect With Me</a></div>
-                    <div class="three">You Can Explore More About My Portfolio And Personal Life Experience Here </div>
+                <div className="contact">
+                    <div className="one"><a href= "#">Explore My Portfolio</a></div>
+                    <div className="two"><a href= "https://www.linkedin.com/in/ayush-singh-6a3a37253/" target="_blank">Connect With Me</a></div>
+                    <div className="three">You Can Explore More About My Portfolio And Personal Life Experience Here </div>
                 </div>
             </div>
-        <div class="icons">
+        <div className="icons">
             <a href="https://www.instagram.com/_ayushh_singh/" target="_blank"><InstagramIcon id='banner-icons' sx={{fontSize:45, color:"white"}}
             /></a>
             <a href="https://wa.me/7979887495" target="_blank"><WhatsAppIcon id='banner-icons' sx={{fontSize:45, color:"white"}}/></a>
