@@ -56,6 +56,7 @@
     height: 17%;
     border: 2px solid rgb(0, 4, 255);
     border-radius: 25px;
+    box-shadow: 8px 6px #000042;
 }
 .Progress-1{
     width: 90%;

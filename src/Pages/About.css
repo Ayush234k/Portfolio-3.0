@@ -43,13 +43,14 @@
     justify-content: center;
 }
 .pic{
-    width: 60%;
-    height: 70%;
+    width: 55%;
+    height: 60%;
     background-image: url(../assets/imG-self-1.png);
     background-size: cover;
-    border: 2px solid rgb(110, 0, 200);
-    border-radius: 10px;
-    
+    border: 2px solid rgb(27, 0, 200);
+    /* border-radius: 10px; */
+    border-radius: 20px 5px 20px 5px;
+    box-shadow: 15px 15px #303030;
 }
 .pic img{
     width: 100%;
