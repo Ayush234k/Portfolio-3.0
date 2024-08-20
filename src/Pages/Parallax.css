@@ -1,0 +1,37 @@
+.animation {
+	height: 100vh;
+}
+.animation_layer{
+    height: 100%;
+}
+.animation {
+    display: block;
+    position: relative;
+    z-index: 10;
+    background-color: rgb(12, 12, 165);
+  }
+  .animation_layer {
+	background-position: bottom center;
+	width: 100%;
+	position: absolute;
+}
+#Maskgroup{
+    background-image: url(../assets/mg2.png);
+    background-size: cover;
+}
+#Maskgroup-1{
+    background-image: url(../assets/mg3.png);
+    background-size: cover;
+}
+#Maskgroup-2{
+    background-image: url(../assets/mg.png);
+    background-size: cover;
+}
+#Maskgroup-3{
+    background-image: url(../assets/mg1.png);
+    background-size: cover;
+}
+#Maskgroup-4{
+    background-image: url(../assets/mg4.png);
+    background-size: cover;
+}
